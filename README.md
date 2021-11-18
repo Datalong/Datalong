@@ -1,13 +1,13 @@
 Hi, 我是冰哥呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写得风趣幽默，也可以把技术文章写得通俗易懂 🚀.
 
-初次见面，送你一份
+全网Id：《冰哥手记》
 
 About
 Learning : Full-Stack Development ⚡ | Open-Source 🔥
-Languages : Java, Spring, Spring Boot, Mysql, Web 全栈
+Languages : Java, Spring, Spring Boot, Mysql, Web 云计算
 Hobbies : ChineseChess 🎭 & Music 🎧
 Fact : First solve the problem, then write the code ❤️
-Contact me : 微信：qing_gee
+Contact me : 微信：bingecoding
 
 Languages and Tools
      
