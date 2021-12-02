@@ -15,8 +15,7 @@ Languages and Tools
 
 Wait for you
  I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
- 
- ![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api Datalong=anuraghazra&show_icons=true&theme=radical )
+
  
 <!--
 **Datalong/Datalong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api Datalong=anuraghazra&show_icons=true&theme=radical )
