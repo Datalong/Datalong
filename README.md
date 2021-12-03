@@ -33,7 +33,7 @@ Fact : First solve the problem, then write the code ❤️
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datalong)](https://github.com/Datalong/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datalong&langs_count=8&layout=compact)](https://github.com/Datalong/)
 
 
 
