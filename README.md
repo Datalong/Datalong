@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Datalong -&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&theme=radical"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Datalong&show_icons=true&theme=radical"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
 
 ## Hi 小伙伴你好 👋我是阿冰
 
@@ -27,7 +27,7 @@ Hobbies : ChineseChess 🎭 & Music 🎧
 
 Fact : First solve the problem, then write the code ❤️
 
-### Wait for you
+## Wait for you
 
 ### I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
 
