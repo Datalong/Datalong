@@ -16,13 +16,16 @@
 
 - 💬 个人微信：『bingecoding』,长期分享编码干货.欢迎来撩😄拉你进大佬群吹水学习
 
-👏 尽情拥抱开源时代，享受IT技术带给我们的Amazing体验
+- 👏 尽情拥抱开源时代，享受IT技术带给我们的Amazing体验
 
-- About
-Learning : Full-Stack Development ⚡ | Open-Source 🔥<br>
-Languages : Java, Spring, Spring Boot, Mysql, Web 云计算<br>
-Hobbies : ChineseChess 🎭 & Music 🎧<br>
-Fact : First solve the problem, then write the code ❤️<br>
+## About
+Learning : Full-Stack Development ⚡ | Open-Source 🔥
+
+Languages : Java, Spring, Spring Boot, Mysql, Web 云计算
+
+Hobbies : ChineseChess 🎭 & Music 🎧
+
+Fact : First solve the problem, then write the code ❤️
 
 Wait for you
 
