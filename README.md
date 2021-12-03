@@ -31,9 +31,9 @@ Fact : First solve the problem, then write the code ❤️
 
 ### I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+## Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datalong)](https://github.com/Datalong/)
 
 
 
