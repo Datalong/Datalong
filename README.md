@@ -26,10 +26,11 @@ Fact : First solve the problem, then write the code ❤️
 Wait for you
 
 I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
+ 
+![wecheat](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638490093602-1.jpg#pic_center)
 
-![wecheat](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638490093602-1.jpg)
 
-![wecheat](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638491510975-2.jpg)
+![wecheat](https://gitee.com/Datalong/picture/raw/master/2021-12-3/1638491510975-2.jpg#pic_center)
 
 
 
