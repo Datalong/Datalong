@@ -27,9 +27,9 @@ Hobbies : ChineseChess 🎭 & Music 🎧
 
 Fact : First solve the problem, then write the code ❤️
 
-Wait for you
+### Wait for you
 
-I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
+### I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
 
 
 
