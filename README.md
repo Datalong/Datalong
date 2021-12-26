@@ -8,11 +8,11 @@
 
 - 🌱 自学经历：逆袭？NO！只是多了一点勤奋！
 
-- 🐶 知乎：『[奔跑吧阿冰](https://www.zhihu.com/people/aifu-lian/posts)』
+- 🐶 知乎：『[龙歌依旧](https://www.zhihu.com/people/aifu-lian/posts)』
 
-- 👯 公众号：『[奔跑吧阿冰](https://mp.weixin.qq.com/s/-mrxVYKTS-3v1BBERprBpQ)』
+- 👯 公众号：『[龙歌依旧](https://mp.weixin.qq.com/s/-mrxVYKTS-3v1BBERprBpQ)』
 
-- 💻 CSDN：『[奔跑吧阿冰](https://blog.csdn.net/weixin_45817252?spm=3001.5343)』
+- 💻 CSDN：『[龙歌依旧](https://blog.csdn.net/weixin_45817252?spm=3001.5343)』
 
 - 💬 个人微信：『bingecoding』,长期分享编码干货.欢迎来撩😄拉你进大佬群吹水学习
 
