@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Datalong&show_icons=true&theme=radical"  alt="水滴石穿" align="right" style="margin-bottom: 20px;"/>
 
-## Hi 小伙伴你好 👋我是阿冰
+## Hi 小伙伴你好 👋我是龙歌
 
-- 😄 热爱技术的后端工程师一枚，主后端，兼前端，编程科技博主..
+- 😄 热爱技术的后端工程师一枚，主后端，兼前端，编程游戏博主..
 
 - 🤜 双非菜鸡，1年及8个月学Java，投86家公司，笔试45场，面试41余场，拿6个offer，最后怒拿某中型公司Offer
 
